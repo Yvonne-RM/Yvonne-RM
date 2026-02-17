@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm [Your Name]! 👋
 
-<!--
-**Yvonne-RM/Yvonne-RM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner Image]("C:\Users\PC\Pictures\Modern engineering in blue tones.png")
 
-Here are some ideas to get you started:
+## About Me 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a passionate Civil Engineering Undergraduate Student with experience in Python, Autocad and SAP2000. I love tackling complex problems, learning new skills and collaborating with diverse teams to create innovative solutions.
+
+- 🌱 Currently learning: Python and SAP2000 in more detail. 
+- 🌍 Languages: Human Languages:  English, French, Shona ; Programming Languages: Python
+- 📫 How to reach me: [rutendomanyanda@gmail.com]
+
+
+## Get in Touch 📬
+
+- **[LinkedIn]** linkedin.com/in/yvonne-manyanda
+
+
+
+
