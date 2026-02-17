@@ -1,7 +1,5 @@
 # Hi there, I'm Yvonne-RM 👋
 
-![Banner Image]("C:\Users\PC\Pictures\Modern engineering in blue tones.png")
-
 ## About Me 🚀
 
 I'm a passionate Civil Engineering Undergraduate Student with experience in Python, Autocad and SAP2000. I love tackling complex problems, learning new skills and collaborating with diverse teams to create innovative solutions.
@@ -12,8 +10,8 @@ I'm a passionate Civil Engineering Undergraduate Student with experience in Pyth
 
 
 ## Get in Touch 📬
-![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-- **[LinkedIn]** linkedin.com/in/yvonne-manyanda
+
+- **[LinkedIn]** :  linkedin.com/in/yvonne-manyanda
 
 
 
