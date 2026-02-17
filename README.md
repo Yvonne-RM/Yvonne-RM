@@ -1,4 +1,4 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi there, I'm Yvonne-RM 👋
 
 ![Banner Image]("C:\Users\PC\Pictures\Modern engineering in blue tones.png")
 
@@ -8,7 +8,7 @@ I'm a passionate Civil Engineering Undergraduate Student with experience in Pyth
 
 - 🌱 Currently learning: Python and SAP2000 in more detail. 
 - 🌍 Languages: Human Languages:  English, French, Shona ; Programming Languages: Python
-- 📫 How to reach me: [rutendomanyanda@gmail.com]
+- 📫 How to reach me: rutendomanyanda@gmail.com
 
 
 ## Get in Touch 📬
