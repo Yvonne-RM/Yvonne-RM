@@ -12,7 +12,7 @@ I'm a passionate Civil Engineering Undergraduate Student with experience in Pyth
 
 
 ## Get in Touch 📬
-![GMAIL]({https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white})
+![GMAIL](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 - **[LinkedIn]** linkedin.com/in/yvonne-manyanda
 
 
